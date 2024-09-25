@@ -1,0 +1,27 @@
+.cajaGeneral{
+    background-image: linear-gradient(to bottom, #331D2C, #A78295);
+    grid-template-rows: 35% auto;
+    scrollbar-width: none;
+}
+
+h1{
+    color: #331D2C;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5);
+    background-color: #EFE1D1;
+}
+
+img{
+    width: 20rem;
+}
+.textos{
+    grid-template-columns: 45% 45%;
+    justify-items: center;
+}
+
+.tarjeta{
+    background-color: #3F2E3E;
+}
+
+.tarjeta{
+color: #EFE1D1;
+}
